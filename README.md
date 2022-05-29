@@ -4,3 +4,4 @@
 
 ![Alt Text](https://media.giphy.com/media/YTPuqmwRCso0uB82o7/giphy.gif)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarloDerEchte)](https://github.com/anuraghazra/github-readme-stats)
